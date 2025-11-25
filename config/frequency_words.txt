@@ -12,8 +12,8 @@ HarmonyOS
 比亚迪
 王传福
 
-大疆
-DJI
+吉利
+李书福
 
 宇树
 王兴兴
@@ -26,24 +26,20 @@ DJI
 黑神话
 冯骥
 
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
 
 三体
 流浪地球
 刘慈欣
 郭帆
 
-申奥
-
 京东
 刘强东
+
+阿里
+alibaba
+qwen
+千问
+马云
 
 字节
 bytedance
@@ -54,6 +50,11 @@ bytedance
 
 微软
 Microsoft
+
+苹果
+Apple
+iOS
+!水果
 
 英伟达
 NVIDIA
